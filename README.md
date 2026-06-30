@@ -1,6 +1,6 @@
  📊 Market Entry Analyzer
 
-An agentic RAG-powered market intelligence platform that helps businesses decide whether entering a new market is worth it.**
+An agentic RAG-powered market intelligence platform that helps businesses decide whether entering a new market is worth it.
 
 Ask a single question — the system automatically searches internal documents, fetches live news, scans the web, scores the opportunity, and generates a structured business report.
 
